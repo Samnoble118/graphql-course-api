@@ -1,0 +1,15 @@
+{
+	"id": "2037fe8d-4814-465d-b6fa-3797612362ed",
+	"name": "Open Study Colleage",
+	"values": [
+		{
+			"key": "Authorization",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzMzNjY0MDY3LCJleHAiOjE3MzM2Njc2Njd9.jx9EGjpB9VtvV70rct_d732MeKqR4jH565ohf4F2p-Y",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-12-08T13:38:15.907Z",
+	"_postman_exported_using": "Postman/11.18.4"
+}
